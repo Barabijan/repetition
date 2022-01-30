@@ -5,6 +5,12 @@
 <title>TEST </title>
 </head>
 <body>
+<div class="header">
+<h1>logo</h1>
+</div>
+<div class="footer">
+footer
+</div>
 this is test save repositories 2.0
 <div>test</div>
   <div>This post is on github</div>
